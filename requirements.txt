@@ -5,3 +5,4 @@ geopy
 bcrypt
 folium
 plotly
+streamlit-folium
